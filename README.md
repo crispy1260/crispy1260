@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Chris
 #### I am a web developer with a creative background.
-![I am a web developer with a creative background.](http://www.placecage.com/1400/25)
+![I am a web developer with a creative background.](http://www.placecage.com/1400/10)
 
 I present ideas, cultures, brands, stories and experiences through a cooperative team of code and graphics. I specialize in creating an environment in which users can experience, learn and retain a story and purpose of a piece of content.
 
